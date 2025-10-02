@@ -4,19 +4,23 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
-
+David Shen - [GitHub](https://github.com/SnazzyBeatle115)
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+N/A
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+**Foodies** is an app that allows people to match with their food preference partners.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+1. As a user, I want to sign up so I can start matching with other users.
+2. As a user, I want to see profiles so I can decide to match.
+3. As a user, I want to be able to chat with my matches.
+4. As a user, I want to be able to arrange a reservation for a restaurant with my matches.
+5. As a user, I want to be able to add restaurants I've been to.
+
 
 ## Activity Diagrams
 
